@@ -7,6 +7,10 @@ A small app to searach for details of a country.
 * `Codable` protocol for JSON to object.
 * `SwiftSVG` used for SVG rendering
 
+### Building
+
+Please do a pod update after cloning so that libraries are properly updated and use `CountrySearch.xcworkspace` thereafter
+
 ### Data Displayed
 
 * Name
